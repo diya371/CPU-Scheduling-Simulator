@@ -67,9 +67,11 @@ Formulas used:
 - **Average WT / TAT** computed across all processes
 
 ---
-
+## Author
+Diya Hansaria
 ## ⚙️ How to Run
 ### Using g++
 ```bash
 g++ -std=c++17 cpu_scheduler.cpp -o cpu_scheduler
 ./cpu_scheduler
+
