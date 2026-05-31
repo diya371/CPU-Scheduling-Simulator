@@ -6,6 +6,8 @@ A command-line simulator that implements classic CPU scheduling algorithms:
 - **Round Robin (RR)** — Preemptive
 
 ---
+## 🌐 Live Demo
+👉 [https://cpu-scheduling-simulator-sandy.vercel.app](https://cpu-scheduling-simulator-sandy.vercel.app)
 
 ## 🚀 Features
 - Calculates:
@@ -17,6 +19,7 @@ A command-line simulator that implements classic CPU scheduling algorithms:
 - Supports variable CPU idle times
 - Works for any number of processes
 - Option to choose between scheduling algorithms
+- Interactive web interface with real-time Gantt chart visualization
 
 ---
 
